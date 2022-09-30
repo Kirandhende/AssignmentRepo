@@ -1,2 +1,0 @@
-File created to add new application on feature branch
-
